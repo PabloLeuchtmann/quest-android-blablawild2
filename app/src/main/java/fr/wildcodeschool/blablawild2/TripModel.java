@@ -60,4 +60,7 @@ public class TripModel implements Parcelable {
     public int describeContents() {
         return 0;
     }
+
+    public TripModel() {
+    }
 }
