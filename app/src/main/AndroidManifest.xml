@@ -18,7 +18,10 @@
         </activity>
         <activity android:name=".ItineraryCreateActivity" />
         <activity android:name=".ItinerarySearchActivity" />
-        <activity android:name=".ItineraryListActivity"></activity>
+        <activity android:name=".ItineraryListActivity" />
+        <activity android:name=".AccountActivity" />
+        <activity android:name=".SigninActivity" />
+        <activity android:name=".SignupActivity"></activity>
     </application>
 
 </manifest>
